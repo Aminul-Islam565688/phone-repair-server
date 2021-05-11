@@ -17,14 +17,14 @@ This is Online Reapiring Shop Based Website. Where One Client Can Take Repairing
 - Data Store in MongoDB
 
 ## Technology Used
-- Bootstrap
-- React.js
-- Stripe
-- Firebase Authentication & Hosting
+- Node.js
+- Express.js
+- MongoDB
 
 ## Packages Use
-- React-Bootstrap
-- Firebase
-- Font Awsome Icons
-- React-router-Dom
-- React Spring
+- Body-Parse
+- Cors
+- Dot-Env
+- Express
+- Nodemon
+- MongoDB
