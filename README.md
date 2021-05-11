@@ -1,13 +1,12 @@
-## Phonerepair Online Web Project | [www.phonerepair.com](https://phone-repair-1d188.web.app/)
+## Phonerepair Online Web Project | [www.phonerepair.com](https://phone-repair-1d188.web.app/) | [Client-Side](https://github.com/Aminul-Islam565688/phone-repair-client)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Build Status](https://img.shields.io/spiget/stars/9089) ![Repo Size](https://img.shields.io/github/repo-size/Aminul-Islam565688/phone-repair-server)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![Build Status](https://img.shields.io/spiget/stars/9089) ![Repo Size](https://img.shields.io/github/repo-size/Aminul-Islam565688/phone-repair-server)![Miantained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 [![security-headers](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminul-islam-03907814b/) 
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
